@@ -1,6 +1,6 @@
 ## Nomes
 
-- Arthur Alves Oliveira 01190030
+- Arthur Alves Oliveira 081190030
 - Aline Tardone de Souza 081190039
 - Juliana Paola Silva Do Nascimento 081190029
 - Lara Vitória De Souza Araújo 081190037
